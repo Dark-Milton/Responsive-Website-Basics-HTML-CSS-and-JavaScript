@@ -1,23 +1,36 @@
-# Web Application Technologies and Django
+# Responsive-Website-Basics-HTML-CSS-and-JavaScript
 
-Web Application Technologies and Django By University of Michigan
+Responsive Website Basics: HTML, CSS, and JavaScript by University of London
 
 
 # About this Course
 
-In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the Hypertext Transfer Protocol (HTTP) request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the overall structure of a Django application.  We will explore the Model-View-Controller (MVC) pattern for web applications and how it relates to Django.  You will learn how to deploy a Django application using a service like PythonAnywhere so that it is available over the Internet. 
+In this course you will learn three key website programming and design languages: HTML, CSS and JavaScript. You will create a web page using basic elements to control layout and style.  Additionally, your web page will support interactivity. 
 
-This is the first course in the Django for Everybody specialization. It is recommended that you complete the Python for Everybody specialization or an equivalent learning experience before beginning this series.
+At the end of the course, you will be able to:
+
+1. Define the purpose of HTML, CSS and JavaScript
+2. Make a simple web page using HTML
+3. Use CSS to control text styles and layout
+4. Use CSS libraries such as Bootstrap to create responsive layouts
+5. Use JavaScript variables and functions
+6. Manipulate web page content using JavaScript
+7. Respond to user input using JavaScript
+
+In this course, you will complete: 
+2 assignments writing HTML, CSS and JavaScript, each taking ~1 hour to complete
+4 quizzes, each taking ~20 minutes to complete
+1 programming exercise~30 minutes to complete
+multiple practice quizzes, each taking ~5 minutes to complete
+
 
 # Syllabus - What you will learn from this course
 
-WEEK 1: Introduction to Dynamic Web Content
+WEEK 1: Course introduction
+        HTML
 
-WEEK 2: Installing Django on PythonAnywhere
+WEEK 2: CSS
 
-WEEK 3: Hypertext Markup Language (from WA4E Specialization)
+WEEK 3: Beginning JavaScript
 
-WEEK 4: Cascading Style Sheets (from WA4E Specialization)
-
-WEEK 5: Introducing Structured Query Language (SQL)
-
+WEEK 4: Going deeper into JavaScript
